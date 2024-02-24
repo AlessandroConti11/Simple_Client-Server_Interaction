@@ -26,7 +26,6 @@ public class Client {
         Scanner scanner = new Scanner(System.in);
         String hostName;
 
-
         System.out.print("Which server IP do you use? ");
         hostName = scanner.nextLine();
 
