@@ -5,7 +5,7 @@ Author: Alessandro Conti - [AlessandroConti11](https://github.com/AlessandroCont
 
 License: [MIT license](LICENSE).
 
-Tags: `#client_server`, `#java`, `#software_engineering`.
+Tags: `#client_server`, `#computer_engineering`, `#java`.
 
 
 ## Specification
